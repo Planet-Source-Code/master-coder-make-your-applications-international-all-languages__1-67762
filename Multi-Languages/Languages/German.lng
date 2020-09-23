@@ -1,0 +1,20 @@
+'German
+'Language file for NoteIT!
+'
+
+'Global Definitions (Good on all forms)
+
+1000 {cmdExit}        : "Exit" | "Ausgang"
+
+
+[form1]
+1  {Form Title}       : "Language Demo" | "Demoband von wie Sprachen zu ändern"
+10 {Frame Title}      : "Select a language" | "Wählen Sie eine Sprache aus"
+20 {Label1}           : "First Name" | "Nennen Sie zuerst"
+21 {Label2}           : "Last Name" | "Nachname"
+22 {Label3}           : "City" | "Stadt"
+23 {Label4}           : "State" | "Staat"
+24 {Label5}           : "Zip Code" | "Postalischer "
+30 {CmdChangeLanguage}: "Change Language" | "Postalischer"
+
+

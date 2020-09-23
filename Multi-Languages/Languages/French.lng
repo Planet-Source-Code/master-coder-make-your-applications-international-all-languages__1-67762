@@ -1,0 +1,20 @@
+'French
+'Language file for NoteIT!
+'
+
+'Global Definitions (Good on all forms)
+
+1000 {cmdExit}        : "Exit" | "Sortie"
+
+
+[form1]
+1  {Form Title}       : "Language Demo" | "Modèle de demonstration de langue"
+10 {Frame Title}      : "Select a language" | "Choisir une langue"
+20 {Label1}           : "First Name" | "Premier Nom"
+21 {Label2}           : "Last Name" | "Durer le Nom"
+22 {Label3}           : "City" | "ville"
+23 {Label4}           : "State" | "état"
+24 {Label5}           : "Zip Code" | "fermer le code"
+30 {CmdChangeLanguage}: "Change Language" | "Changer la Langue"
+
+

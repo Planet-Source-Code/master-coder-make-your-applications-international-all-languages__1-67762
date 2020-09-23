@@ -1,0 +1,31 @@
+'Spanish
+'Language file for NoteIT!
+'
+'Syntax:
+'
+' []  Form Name
+'
+' 10{file}:"File"|"Archivo"
+'
+' 10  		Index Number  - Required
+' {}  		Key 	      - Optional
+' "File"	Base Language - English
+' "Archivo"	Translation   - Spanish
+'
+
+'Global Definitions (Good on all forms)
+
+1000 {cmdExit}        : "Exit" | "Salida"
+
+
+[form1]
+1  {Form Title}       : "Language Demo" | "Demostración de Idioma"
+10 {Frame Title}      : "Select a language" | "Escoja una Idioma"
+20 {Label1}           : "First Name" | "Nombre"
+21 {Label2}           : "Last Name" | "Apellido"
+22 {Label3}           : "City" | "Ciudad"
+23 {Label4}           : "State" | "Estado"
+24 {Label5}           : "Zip Code" | "Código postal"
+30 {CmdChangeLanguage}: "Change Language" | "Cambiar Idioma"
+
+
